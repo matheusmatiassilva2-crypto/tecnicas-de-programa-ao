@@ -1,6 +1,6 @@
 # Estudante de engenharia de softwere
 
-# tecnicas-de-programa-ao
+# tecnicas-de-programaçao
 
 aulas da materia de tecnicas de programação
 # Atividades de Técnicas de Programação
