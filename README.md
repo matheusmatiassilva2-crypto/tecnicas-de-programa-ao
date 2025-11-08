@@ -49,4 +49,4 @@ Este projeto está sob a licença [Nome da Licença, ex: `MIT`, `GPLv3`]. Veja o
 
 ## 📧 Contato
 
-Se tiver alguma dúvida sobre as atividades ou quiser discutir algum ponto, pode entrar em contato comigo pelo meu e-mail: `seu-email@exemplo.com`.
+Se tiver alguma dúvida sobre as atividades ou quiser discutir algum ponto, pode entrar em contato comigo pelo meu e-mail: `matheusmatiassilva2@gmail.com`.
